@@ -13,6 +13,7 @@
 		D04F07832965728800937016 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D04F07812965728800937016 /* Main.storyboard */; };
 		D04F07852965728900937016 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D04F07842965728900937016 /* Assets.xcassets */; };
 		D04F07882965728900937016 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D04F07862965728900937016 /* LaunchScreen.storyboard */; };
+		D04F0790296572C900937016 /* TextFieldCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04F078F296572C900937016 /* TextFieldCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D04F07842965728900937016 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D04F07872965728900937016 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D04F07892965728900937016 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D04F078F296572C900937016 /* TextFieldCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D04F077B2965728800937016 /* AppDelegate.swift */,
 				D04F077D2965728800937016 /* SceneDelegate.swift */,
 				D04F077F2965728800937016 /* ViewController.swift */,
+				D04F078F296572C900937016 /* TextFieldCell.swift */,
 				D04F07812965728800937016 /* Main.storyboard */,
 				D04F07842965728900937016 /* Assets.xcassets */,
 				D04F07862965728900937016 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				D04F07802965728800937016 /* ViewController.swift in Sources */,
 				D04F077C2965728800937016 /* AppDelegate.swift in Sources */,
 				D04F077E2965728800937016 /* SceneDelegate.swift in Sources */,
+				D04F0790296572C900937016 /* TextFieldCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
