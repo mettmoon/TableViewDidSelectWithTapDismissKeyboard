@@ -1,4 +1,4 @@
-# wrong row when UITableView did select delegate called when dismiss keyboard by tap gesture
+# wrong indexPath when UITableView did select delegate called after dismiss keyboard by tap gesture
 
 tap gesture for dismiss keyboard in tableView will row at didSelect delegate
 
